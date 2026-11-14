@@ -30,7 +30,7 @@ document.querySelectorAll('.secret-star').forEach((star) => {
   });
 });
 // REPRODUCTOR DE YOUTUBE
-const YOUTUBE_URL = "https://youtu.be/izToCCeLnNA?si=Bg385jh_6yEhBsqG";
+const YOUTUBE_URL = "https://youtu.be/oy5ouz2x3TA?si=R1m3dZ_vPoF0dhUA";
 
 const playMusic = document.querySelector("#playMusic");
 const youtubePlayer = document.querySelector("#youtubePlayer");
